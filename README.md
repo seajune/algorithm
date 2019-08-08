@@ -1,2 +1,2 @@
 # algorithm
-leetcode algorithm
+leetcode算法题记录
